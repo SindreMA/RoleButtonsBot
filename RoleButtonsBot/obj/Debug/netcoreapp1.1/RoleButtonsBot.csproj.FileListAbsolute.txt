@@ -1,0 +1,9 @@
+D:\Bots\RoleButtonsBot\RoleButtonsBot\bin\Debug\netcoreapp1.1\RoleButtonsBot.deps.json
+D:\Bots\RoleButtonsBot\RoleButtonsBot\bin\Debug\netcoreapp1.1\RoleButtonsBot.runtimeconfig.json
+D:\Bots\RoleButtonsBot\RoleButtonsBot\bin\Debug\netcoreapp1.1\RoleButtonsBot.runtimeconfig.dev.json
+D:\Bots\RoleButtonsBot\RoleButtonsBot\bin\Debug\netcoreapp1.1\RoleButtonsBot.dll
+D:\Bots\RoleButtonsBot\RoleButtonsBot\bin\Debug\netcoreapp1.1\RoleButtonsBot.pdb
+D:\Bots\RoleButtonsBot\RoleButtonsBot\obj\Debug\netcoreapp1.1\RoleButtonsBot.csprojResolveAssemblyReference.cache
+D:\Bots\RoleButtonsBot\RoleButtonsBot\obj\Debug\netcoreapp1.1\RoleButtonsBot.AssemblyInfo.cs
+D:\Bots\RoleButtonsBot\RoleButtonsBot\obj\Debug\netcoreapp1.1\RoleButtonsBot.dll
+D:\Bots\RoleButtonsBot\RoleButtonsBot\obj\Debug\netcoreapp1.1\RoleButtonsBot.pdb
